@@ -1,0 +1,46 @@
+a{
+    float: right;
+    line-height: 0.01cm;
+    padding: 5px;
+    color: white;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.textbox{
+    border-radius: 25px;
+    border-color: white;
+    width: 500px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: white;
+}
+div{
+    margin: auto;
+    text-align: center;
+    padding: 100px ;
+}
+.textbox:hover{
+    background-color:rgba(154, 148, 131, 0.1);
+}
+table{
+    padding: 20px;
+    margin: auto;
+}
+.button{
+    background-color:rgba(154, 148, 131, 0.5) ;
+    color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+}
+.links{
+    float: right;
+    border: 2px solid white;
+}
+.link{
+    padding: 5px 15px;
+    margin: 50px;
+}
